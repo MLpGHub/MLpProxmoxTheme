@@ -84,7 +84,7 @@ def themeIsInstalled():
 def installTheme():
     clear()
     doHeader()
-    baseURL = os.getenv('BASEURL', f'https://github.com/Weilbyte/PVEDiscordDark/raw/{os.getenv("BRANCH", "master")}')
+    baseURL = os.getenv('BASEURL', f'https://github.com/MLpGHub/MLpProxmoxTheme/raw/{os.getenv("BRANCH", "master")}')
     cprint(colors.NORMAL, '\nBacking up index template file..')
     shutil.copyfile('/usr/share/pve-manager/index.html.tpl', '/usr/share/pve-manager/index.html.tpl.bak')
     cprint(colors.NORMAL, 'Downloading stylesheet..')
