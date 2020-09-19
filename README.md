@@ -2,6 +2,7 @@
  Custom Proxmox theme for MLp servers
 
 ![](https://i.imgur.com/SnlCyHF.png)
+![](https://raw.githubusercontent.com/MLpGHub/MLpProxmoxTheme/master/Example.png)
 
 <p align="center">A dark theme for the Proxmox Web UI,<br/> <i>inspired by Discord's color scheme.</i></p>
 
