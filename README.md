@@ -12,7 +12,7 @@ The theme now runs its own JavaScript code which patches the colors for certain 
 The installation is very simple thanks to the utility. Run the following commands on the PVE node serving the Web UI and follow the on-screen instructions!     
 
 ```
-~# wget https://raw.githubusercontent.com/MLpGHub/PVEDiscordDark/master/PVEDiscordDark.py
+~# wget https://raw.githubusercontent.com/MLpGHub/MLpProxmoxTheme/master/PVEDiscordDark.py
 ~# python3 PVEDiscordDark.py
    ```
 
